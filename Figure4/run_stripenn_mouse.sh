@@ -1,0 +1,1 @@
+stripenn compute --cool /mnt/data0/sora/JHM_GV/GV/Ets1_KO_Th1/ArimaHiC_Th1_WT_deepSeq_NovaSeqS1_202903739_S1_001_mm10_BL6.bwt2pairs.validPairs.mcool::resolutions/5000 --out Th1 --norm VC_SQRT -m 0.97,0.98,0.99 -n 10
